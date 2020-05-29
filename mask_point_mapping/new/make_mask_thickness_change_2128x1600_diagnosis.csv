@@ -1,0 +1,33 @@
+2,common,PatientName,107,240,138,523
+3,value,PatientID,140,242,171,523
+4,common,ContentDate,1070,228,1097,376
+5,common,PatientBirthDate,108,873,139,1047
+6,common,PatientSex,109,1202,139,1386
+7,common,Manufacturer,65,88,94,829
+8,common,Modality,27,88,65,829
+9,common,Laterality,112,1403,173,1506
+10,value,OCT total macular volume Left eye,1147,649,1167,728
+11,value,OCT central macular thickness (ETDRS grid) Left eye,1263,805,1295,867
+12,value,OCT central macular volume (ETDRS grid) Left eye,1296,808,1324,867
+13,value,OCT 3 mm superior macular thickness (ETDRS grid) Left eye,1191,812,1216,865
+14,value,OCT 3 mm superior macular volume (ETDRS grid) Left eye,1219,808,1243,866
+15,value,OCT 3 mm nasal macular thickness (ETDRS grid) Left eye,1271,895,1293,944
+16,value,OCT 3 mm nasal macular volume (ETDRS grid) Left eye,1298,891,1320,942
+17,value,OCT 3 mm inferior macular thickness (ETDRS grid) Left eye,1350,813,1374,868
+18,value,OCT 3 mm inferior macular volume (ETDRS grid) Left eye,1378,812,1399,863
+19,value,OCT 3 mm temporal macular thickness (ETDRS grid) Left eye,1273,735,1294,786
+20,value,OCT 3 mm temporal macular volume (ETDRS grid) Left eye,1299,734,1321,786
+21,value,OCT 6 mm superior macular thickness (ETDRS grid) Left eye,1131,810,1154,865
+22,value,OCT 6 mm superior macular volume (ETDRS grid) Left eye,1158,808,1181,863
+23,value,OCT 6 mm nasal macular thickness (ETDRS grid) Left eye,1271,953,1295,1001
+24,value,OCT 6 mm nasal macular volume (ETDRS grid) Left eye,1298,952,1322,1002
+25,value,OCT 6 mm inferior macular thickness (ETDRS grid) Left eye,1410,811,1434,864
+26,value,OCT 6 mm inferior macular volume (ETDRS grid) Left eye,1439,811,1461,864
+27,value,OCT 6 mm temporal macular thickness (ETDRS grid) Left eye,1272,673,1296,723
+28,value,OCT 6 mm temporal macular volume (ETDRS grid) Left eye,1298,673,1322,723
+29,value,OCT center average macular thickness Left eye,1238,1271,1270,1436
+30,value,OCT center minimum macular thickness Left eye,1278,1271,1310,1436
+31,value,OCT center maximum macular thickness Left eye,1311,1271,1343,1436
+54,common,Follow_diameters,1415,1077,1457,1349
+55,common,FP_figure,1138,106,1543,580
+56,common,macular_figure,1602,95,1876,523

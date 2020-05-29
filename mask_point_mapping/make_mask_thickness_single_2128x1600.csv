@@ -1,0 +1,33 @@
+2,common,PatientName,107,240,138,523
+3,value,PatientID,140,242,171,523
+4,common,ContentDate,140,873,171,1047
+5,common,PatientBirthDate,108,873,139,1047
+6,common,PatientSex,109,1202,139,1386
+7,common,Manufacturer,65,88,94,829
+8,common,Modality,27,88,65,829
+9,common,Laterality,112,1403,173,1506
+10,value,OCT total macular volume Left eye,310,990,335,1085
+11,value,OCT central macular thickness (ETDRS grid) Left eye,487,1204,512,1268
+12,value,OCT central macular volume (ETDRS grid) Left eye,516,1204,541,1268
+13,value,OCT 3 mm superior macular thickness (ETDRS grid) Left eye,384,1204,409,1268
+14,value,OCT 3 mm superior macular volume (ETDRS grid) Left eye,410,1204,435,1268
+15,value,OCT 3 mm nasal macular thickness (ETDRS grid) Left eye,487,1100,512,1164
+16,value,OCT 3 mm nasal macular volume (ETDRS grid) Left eye,516,1100,541,1164
+17,value,OCT 3 mm inferior macular thickness (ETDRS grid) Left eye,593,1204,618,1268
+18,value,OCT 3 mm inferior macular volume (ETDRS grid) Left eye,620,1204,645,1268
+19,value,OCT 3 mm temporal macular thickness (ETDRS grid) Left eye,487,1310,512,1374
+20,value,OCT 3 mm temporal macular volume (ETDRS grid) Left eye,516,1310,541,1374
+21,value,OCT 6 mm superior macular thickness (ETDRS grid) Left eye,301,1204,326,1268
+22,value,OCT 6 mm superior macular volume (ETDRS grid) Left eye,330,1204,355,1268
+23,value,OCT 6 mm nasal macular thickness (ETDRS grid) Left eye,487,1020,512,1084
+24,value,OCT 6 mm nasal macular volume (ETDRS grid) Left eye,516,1020,541,1084
+25,value,OCT 6 mm inferior macular thickness (ETDRS grid) Left eye,673,1204,698,1268
+26,value,OCT 6 mm inferior macular volume (ETDRS grid) Left eye,701,1204,726,1268
+27,value,OCT 6 mm temporal macular thickness (ETDRS grid) Left eye,487,1389,512,1453
+28,value,OCT 6 mm temporal macular volume (ETDRS grid) Left eye,516,1389,541,1453
+29,value,OCT center average macular thickness Left eye,758,1311,785,1452
+30,value,OCT center minimum macular thickness Left eye,800,1311,827,1452
+31,value,OCT center maximum macular thickness Left eye,840,1311,867,1452
+54,common,Follow_diameters,880,1311,907,1558
+55,common,FP_figure,250,111,1044,947
+56,common,macular_figure,1099,190,1886,1409

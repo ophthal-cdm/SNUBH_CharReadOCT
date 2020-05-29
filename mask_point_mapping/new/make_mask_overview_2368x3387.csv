@@ -1,0 +1,11 @@
+2,common,PatientName,140,362,189,1499
+3,value,PatientID,196,361,237,818
+4,common,ContentDate,195,1763,231,2162
+5,common,PatientBirthDate,144,1763,184,2161
+6,common,PatientSex,145,2489,182,2932
+7,common,Manufacturer,77,144,120,918
+8,common,Modality,29,144,73,569
+84,value,OD_Hor_Figure,469,144,1066,1662
+85,value,OD_Ver_Figure,469,1704,1066,3221
+86,value,OS_Hor_Figure,1339,144,1936,1662
+87,value,OS_Ver_Figure,1339,1704,1936,3221

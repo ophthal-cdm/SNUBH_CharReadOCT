@@ -1,0 +1,36 @@
+2,common,PatientName,109,241,138,606
+3,value,PatientID,142,241,170,606
+4,common,ContentDate,142,862,170,1077
+5,common,PatientBirthDate,108,862,135,1076
+6,common,PatientSex,111,1162,135,1337
+7,common,Manufacturer,65,94,93,606
+8,common,Modality,30,94,63,606
+None,common,OD_Region,295,105,345,200
+None,common,OS_Region,295,1360,345,1450
+57,value,OCT Average RNFL thickenss Right eye,1834,252,1879,286
+58,value,OCT temporal RNFL thickness Right eye,1595,182,1633,218
+59,value,OCT superotemporal RNFL thickness Right eye,1764,230,1798,264
+60,value,OCT superior RNFL thickness Right eye,1519,256,1555,290
+61,value,OCT superonasal RNFL thickness Right eye,1765,288,1799,322
+62,value,OCT nasal RNFL thickness Right eye,1594,335,1628,369
+63,value,OCT inferonasal RNFL thickness Right eye,1906,289,1940,323
+64,value,OCT inferior RNFL thickness Right eye,1671,257,1705,291
+65,value,OCT inferotemporal RNFL thickness Right eye,1905,228,1939,262
+66,value,OCT Average RNFL thickenss Left eye,1836,1265,1870,1299
+67,value,OCT temporal RNFL thickness Left eye,1594,1344,1628,1378
+68,value,OCT superotemporal RNFL thickness Left eye,1765,1293,1799,1327
+69,value,OCT superior RNFL thickness Left eye,1518,1267,1552,1301
+70,value,OCT superonasal RNFL thickness Left eye,1763,1236,1797,1270
+71,value,OCT nasal RNFL thickness Left eye,1595,1190,1629,1224
+72,value,OCT inferonasal RNFL thickness Left eye,1905,1237,1939,1271
+73,value,OCT inferior RNFL thickness Left eye,1670,1265,1704,1299
+74,value,OCT inferotemporal RNFL thickness Left eye,1905,1295,1939,1329
+75,common,OCT RNFL classification Right eye,1937,414,1973,768
+76,common,OCT RNFL classification Left eye,1937,791,1974,1148
+77,common,OD_OCR_figure,824,181,1143,675
+78,common,OD_RNFL_figure,1211,104,1477,678
+79,common,OD_figure,288,209,753,674
+80,common,OS_OCR_figure,825,882,1142,1374
+81,common,OS_RNFL_figure,1210,881,1474,1421
+82,common,OS_figure,288,882,753,1347
+83,common,asymmetry_OD-OS_RNFL_figure,1498,485,1781,1079

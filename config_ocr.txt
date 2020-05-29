@@ -1,0 +1,88 @@
+PatientName
+PatientID
+ContentDate
+PatientBirthDate
+PatientSex
+Manufucturer
+Modality
+Laterality
+OCT total macular volume Left eye
+OCT central macular thickness (ETDRS grid) Left eye
+OCT central macular volume (ETDRS grid) Left eye
+OCT 3 mm superior macular thickness (ETDRS grid) Left eye
+OCT 3 mm superior macular volume (ETDRS grid) Left eye
+OCT 3 mm nasal macular thickness (ETDRS grid) Left eye
+OCT 3 mm nasal macular volume (ETDRS grid) Left eye
+OCT 3 mm inferior macular thickness (ETDRS grid) Left eye
+OCT 3 mm inferior macular volume (ETDRS grid) Left eye
+OCT 3 mm temporal macular thickness (ETDRS grid) Left eye
+OCT 3 mm temporal macular volume (ETDRS grid) Left eye
+OCT 6 mm superior macular thickness (ETDRS grid) Left eye
+OCT 6 mm superior macular volume (ETDRS grid) Left eye
+OCT 6 mm nasal macular thickness (ETDRS grid) Left eye
+OCT 6 mm nasal macular volume (ETDRS grid) Left eye
+OCT 6 mm inferior macular thickness (ETDRS grid) Left eye
+OCT 6 mm inferior macular volume (ETDRS grid) Left eye
+OCT 6 mm temporal macular thickness (ETDRS grid) Left eye
+OCT 6 mm temporal macular volume (ETDRS grid) Left eye
+OCT center average macular thickness Left eye
+OCT center minimum macular thickness Left eye
+OCT center maximum macular thickness Left eye
+OCT total macular volume Right eye
+OCT central macular thickness (ETDRS grid) Right eye
+OCT central macular volume (ETDRS grid) Right eye
+OCT 3 mm superior macular thickness (ETDRS grid) Right eye
+OCT 3 mm superior macular volume (ETDRS grid) Right eye
+OCT 3 mm nasal macular thickness (ETDRS grid) Right eye
+OCT 3 mm nasal macular volume (ETDRS grid) Right eye
+OCT 3 mm inferior macular thickness (ETDRS grid) Right eye
+OCT 3 mm inferior macular volume (ETDRS grid) Right eye
+OCT 3 mm temporal macular thickness (ETDRS grid) Right eye
+OCT 3 mm temporal macular volume (ETDRS grid) Right eye
+OCT 6 mm superior macular thickness (ETDRS grid) Right eye
+OCT 6 mm superior macular volume (ETDRS grid) Right eye
+OCT 6 mm nasal macular thickness (ETDRS grid) Right eye
+OCT 6 mm nasal macular volume (ETDRS grid) Right eye
+OCT 6 mm inferior macular thickness (ETDRS grid) Right eye
+OCT 6 mm inferior macular volume (ETDRS grid) Right eye
+OCT 6 mm temporal macular thickness (ETDRS grid) Right eye
+OCT 6 mm temporal macular volume (ETDRS grid) Right eye
+OCT center average macular thickness Right eye
+OCT center minimum macular thickness Right eye
+OCT center maximum macular thickness Right eye
+diameters
+figure_FP
+figure_OCT
+OCT Average RNFL thickenss Right eye
+OCT temporal RNFL thickness Right eye
+OCT superotemporal RNFL thickness Right eye
+OCT superior RNFL thickness Right eye
+OCT superonasal RNFL thickness Right eye
+OCT nasal RNFL thickness Right eye
+OCT inferonasal RNFL thickness Right eye
+OCT inferior RNFL thickness Right eye
+OCT inferotemporal RNFL thickness Right eye
+OCT Average RNFL thickenss Left eye
+OCT temporal RNFL thickness Left eye
+OCT superotemporal RNFL thickness Left eye
+OCT superior RNFL thickness Left eye
+OCT superonasal RNFL thickness Left eye
+OCT nasal RNFL thickness Left eye
+OCT inferonasal RNFL thickness Left eye
+OCT inferior RNFL thickness Left eye
+OCT inferotemporal RNFL thickness Left eye
+OCT RNFL classification Right eye
+OCT RNFL classification Left eye
+OD_OCR_figure
+OD_RNFL_figure
+OD_figure
+OS_OCR_figure
+OS_RNFL_figure
+OS_figure
+asymmetry_OD-OS_RNFL_figure
+OD_Hor_Figure
+OD_Ver_Figure
+OS_Hor_Figure
+OS_Ver_Figure
+Hor_Figure
+Ver_Figure
